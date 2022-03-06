@@ -1,0 +1,5 @@
+git status
+git add
+git commit -m "first commit"
+git remote set -url origin https...   or git remote add origin https....
+git push origin master
